@@ -4,6 +4,8 @@ app_publisher = "Sakthi Kumar p"
 app_description = "Employee App"
 app_email = "sakthi123msd@gmail.com"
 app_license = "mit"
+app_version = "1.0.0"
+
 # required_apps = []
 
 # Includes in <head>
